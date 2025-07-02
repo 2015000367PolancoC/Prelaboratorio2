@@ -1,0 +1,11 @@
+C:\Users\sebas\Downloads\Laboratorio\New folder\Totito\Totito\bin\Debug\Totito.exe.config
+C:\Users\sebas\Downloads\Laboratorio\New folder\Totito\Totito\bin\Debug\Totito.exe
+C:\Users\sebas\Downloads\Laboratorio\New folder\Totito\Totito\bin\Debug\Totito.pdb
+C:\Users\sebas\Downloads\Laboratorio\New folder\Totito\Totito\obj\Debug\Totito.csproj.AssemblyReference.cache
+C:\Users\sebas\Downloads\Laboratorio\New folder\Totito\Totito\obj\Debug\Totito.Form1.resources
+C:\Users\sebas\Downloads\Laboratorio\New folder\Totito\Totito\obj\Debug\Totito.Properties.Resources.resources
+C:\Users\sebas\Downloads\Laboratorio\New folder\Totito\Totito\obj\Debug\Totito.csproj.GenerateResource.cache
+C:\Users\sebas\Downloads\Laboratorio\New folder\Totito\Totito\obj\Debug\Totito.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Downloads\Laboratorio\New folder\Totito\Totito\obj\Debug\Totito.exe
+C:\Users\sebas\Downloads\Laboratorio\New folder\Totito\Totito\obj\Debug\Totito.pdb
+C:\Users\sebas\Downloads\Laboratorio\New folder\Totito\Totito\obj\Debug\Totito.exe.config

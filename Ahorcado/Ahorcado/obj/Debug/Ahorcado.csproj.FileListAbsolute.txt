@@ -1,0 +1,11 @@
+C:\Users\sebas\Downloads\Laboratorio\New folder\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\sebas\Downloads\Laboratorio\New folder\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\sebas\Downloads\Laboratorio\New folder\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\sebas\Downloads\Laboratorio\New folder\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\sebas\Downloads\Laboratorio\New folder\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\sebas\Downloads\Laboratorio\New folder\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\sebas\Downloads\Laboratorio\New folder\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+C:\Users\sebas\Downloads\Laboratorio\New folder\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Downloads\Laboratorio\New folder\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\sebas\Downloads\Laboratorio\New folder\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\sebas\Downloads\Laboratorio\New folder\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe.config
